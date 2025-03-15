@@ -1,0 +1,378 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|d:\\documents\\proyectos\\angelissa\\angelissapastryshopv1\\angelissapastryshop\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|solutionrelative:angelissapastryshop\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|d:\\documents\\proyectos\\angelissa\\angelissapastryshopv1\\angelissapastryshop\\components\\pages\\pedidos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|solutionrelative:angelissapastryshop\\components\\pages\\pedidos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|d:\\documents\\proyectos\\angelissa\\angelissapastryshopv1\\angelissapastryshop\\components\\pages\\pedidos.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|solutionrelative:angelissapastryshop\\components\\pages\\pedidos.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|d:\\documents\\proyectos\\angelissa\\angelissapastryshopv1\\angelissapastryshop\\components\\pages\\ordenes.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|solutionrelative:angelissapastryshop\\components\\pages\\ordenes.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|d:\\documents\\proyectos\\angelissa\\angelissapastryshopv1\\angelissapastryshop\\wwwroot\\js\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|solutionrelative:angelissapastryshop\\wwwroot\\js\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|d:\\documents\\proyectos\\angelissa\\angelissapastryshopv1\\angelissapastryshop\\components\\pages\\historialordenes.razor..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|solutionrelative:angelissapastryshop\\components\\pages\\historialordenes.razor..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|d:\\documents\\proyectos\\angelissa\\angelissapastryshopv1\\angelissapastryshop\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|solutionrelative:angelissapastryshop\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|d:\\documents\\proyectos\\angelissa\\angelissapastryshopv1\\angelissapastryshop\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|solutionrelative:angelissapastryshop\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|d:\\documents\\proyectos\\angelissa\\angelissapastryshopv1\\angelissapastryshop\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|solutionrelative:angelissapastryshop\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|d:\\documents\\proyectos\\angelissa\\angelissapastryshopv1\\angelissapastryshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|solutionrelative:angelissapastryshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|d:\\documents\\proyectos\\angelissa\\angelissapastryshopv1\\angelissapastryshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|solutionrelative:angelissapastryshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|d:\\documents\\proyectos\\angelissa\\angelissapastryshopv1\\angelissapastryshop\\services\\uploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|solutionrelative:angelissapastryshop\\services\\uploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|d:\\documents\\proyectos\\angelissa\\angelissapastryshopv1\\angelissapastryshop\\angelissapastryshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|solutionrelative:angelissapastryshop\\angelissapastryshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|d:\\documents\\proyectos\\angelissa\\angelissapastryshopv1\\angelissapastryshop\\data\\angelissapastrycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|solutionrelative:angelissapastryshop\\data\\angelissapastrycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|d:\\documents\\proyectos\\angelissa\\angelissapastryshopv1\\angelissapastryshop\\services\\carritoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|solutionrelative:angelissapastryshop\\services\\carritoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|d:\\documents\\proyectos\\angelissa\\angelissapastryshopv1\\angelissapastryshop\\data\\detallesorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|solutionrelative:angelissapastryshop\\data\\detallesorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|d:\\documents\\proyectos\\angelissa\\angelissapastryshopv1\\angelissapastryshop\\components\\pages\\historialordenes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|solutionrelative:angelissapastryshop\\components\\pages\\historialordenes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|d:\\documents\\proyectos\\angelissa\\angelissapastryshopv1\\angelissapastryshop\\repository\\ordenrepositorio .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|solutionrelative:angelissapastryshop\\repository\\ordenrepositorio .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|d:\\documents\\proyectos\\angelissa\\angelissapastryshopv1\\angelissapastryshop\\components\\pages\\ordenes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|solutionrelative:angelissapastryshop\\components\\pages\\ordenes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|d:\\documents\\proyectos\\angelissa\\angelissapastryshopv1\\angelissapastryshop\\repository\\productorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|solutionrelative:angelissapastryshop\\repository\\productorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|d:\\documents\\proyectos\\angelissa\\angelissapastryshopv1\\angelissapastryshop\\data\\presentaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|solutionrelative:angelissapastryshop\\data\\presentaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|d:\\documents\\proyectos\\angelissa\\angelissapastryshopv1\\angelissapastryshop\\data\\orden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141E2ADA-96E8-4CB5-9906-F8DAD741AD74}|angelissaPastryShop\\angelissaPastryShop.csproj|solutionrelative:angelissapastryshop\\data\\orden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 174,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JavaScript.js",
+              "DocumentMoniker": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\wwwroot\\JS\\JavaScript.js",
+              "RelativeDocumentMoniker": "angelissaPastryShop\\wwwroot\\JS\\JavaScript.js",
+              "ToolTip": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\wwwroot\\JS\\JavaScript.js",
+              "RelativeToolTip": "angelissaPastryShop\\wwwroot\\JS\\JavaScript.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-15T04:57:15.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\Components\\App.razor",
+              "RelativeDocumentMoniker": "angelissaPastryShop\\Components\\App.razor",
+              "ToolTip": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\Components\\App.razor",
+              "RelativeToolTip": "angelissaPastryShop\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T04:48:23.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "angelissaPastryShop\\Components\\Routes.razor",
+              "ToolTip": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\Components\\Routes.razor",
+              "RelativeToolTip": "angelissaPastryShop\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T04:48:20.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "angelissaPastryShop\\Components\\_Imports.razor",
+              "ToolTip": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\Components\\_Imports.razor",
+              "RelativeToolTip": "angelissaPastryShop\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T04:48:17.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "app.css",
+              "DocumentMoniker": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "angelissaPastryShop\\wwwroot\\app.css",
+              "ToolTip": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\wwwroot\\app.css",
+              "RelativeToolTip": "angelissaPastryShop\\wwwroot\\app.css",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-15T04:44:04.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UploadService.cs",
+              "DocumentMoniker": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\Services\\UploadService.cs",
+              "RelativeDocumentMoniker": "angelissaPastryShop\\Services\\UploadService.cs",
+              "ToolTip": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\Services\\UploadService.cs",
+              "RelativeToolTip": "angelissaPastryShop\\Services\\UploadService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T04:20:49.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "angelissaPastryShop.csproj",
+              "DocumentMoniker": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\angelissaPastryShop.csproj",
+              "RelativeDocumentMoniker": "angelissaPastryShop\\angelissaPastryShop.csproj",
+              "ToolTip": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\angelissaPastryShop.csproj",
+              "RelativeToolTip": "angelissaPastryShop\\angelissaPastryShop.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-14T19:33:14.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\Program.cs",
+              "RelativeDocumentMoniker": "angelissaPastryShop\\Program.cs",
+              "ToolTip": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\Program.cs",
+              "RelativeToolTip": "angelissaPastryShop\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T19:31:13.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AngelissaPastryContext.cs",
+              "DocumentMoniker": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\Data\\AngelissaPastryContext.cs",
+              "RelativeDocumentMoniker": "angelissaPastryShop\\Data\\AngelissaPastryContext.cs",
+              "ToolTip": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\Data\\AngelissaPastryContext.cs",
+              "RelativeToolTip": "angelissaPastryShop\\Data\\AngelissaPastryContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T19:31:10.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\appsettings.json",
+              "RelativeDocumentMoniker": "angelissaPastryShop\\appsettings.json",
+              "ToolTip": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\appsettings.json",
+              "RelativeToolTip": "angelissaPastryShop\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-14T19:29:01.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HistorialOrdenes.razor",
+              "DocumentMoniker": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\Components\\Pages\\HistorialOrdenes.razor",
+              "RelativeDocumentMoniker": "angelissaPastryShop\\Components\\Pages\\HistorialOrdenes.razor",
+              "ToolTip": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\Components\\Pages\\HistorialOrdenes.razor",
+              "RelativeToolTip": "angelissaPastryShop\\Components\\Pages\\HistorialOrdenes.razor",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-14T04:32:20.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HistorialOrdenes.razor..cs",
+              "DocumentMoniker": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\Components\\Pages\\HistorialOrdenes.razor..cs",
+              "RelativeDocumentMoniker": "angelissaPastryShop\\Components\\Pages\\HistorialOrdenes.razor..cs",
+              "ToolTip": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\Components\\Pages\\HistorialOrdenes.razor..cs",
+              "RelativeToolTip": "angelissaPastryShop\\Components\\Pages\\HistorialOrdenes.razor..cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAApwBoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T04:32:06.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrdenRepositorio .cs",
+              "DocumentMoniker": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\Repository\\OrdenRepositorio .cs",
+              "RelativeDocumentMoniker": "angelissaPastryShop\\Repository\\OrdenRepositorio .cs",
+              "ToolTip": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\Repository\\OrdenRepositorio .cs",
+              "RelativeToolTip": "angelissaPastryShop\\Repository\\OrdenRepositorio .cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAawBoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T04:13:19.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DetallesOrden.cs",
+              "DocumentMoniker": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\Data\\DetallesOrden.cs",
+              "RelativeDocumentMoniker": "angelissaPastryShop\\Data\\DetallesOrden.cs",
+              "ToolTip": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\Data\\DetallesOrden.cs",
+              "RelativeToolTip": "angelissaPastryShop\\Data\\DetallesOrden.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T04:21:38.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Orden.cs",
+              "DocumentMoniker": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\Data\\Orden.cs",
+              "RelativeDocumentMoniker": "angelissaPastryShop\\Data\\Orden.cs",
+              "ToolTip": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\Data\\Orden.cs",
+              "RelativeToolTip": "angelissaPastryShop\\Data\\Orden.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T04:10:33.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ordenes.razor.cs",
+              "DocumentMoniker": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\Components\\Pages\\Ordenes.razor.cs",
+              "RelativeDocumentMoniker": "angelissaPastryShop\\Components\\Pages\\Ordenes.razor.cs",
+              "ToolTip": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\Components\\Pages\\Ordenes.razor.cs",
+              "RelativeToolTip": "angelissaPastryShop\\Components\\Pages\\Ordenes.razor.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAWwE8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T04:08:58.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Ordenes.razor",
+              "DocumentMoniker": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\Components\\Pages\\Ordenes.razor",
+              "RelativeDocumentMoniker": "angelissaPastryShop\\Components\\Pages\\Ordenes.razor",
+              "ToolTip": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\Components\\Pages\\Ordenes.razor",
+              "RelativeToolTip": "angelissaPastryShop\\Components\\Pages\\Ordenes.razor",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAQwGsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-14T04:07:45.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductoRepositorio.cs",
+              "DocumentMoniker": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\Repository\\ProductoRepositorio.cs",
+              "RelativeDocumentMoniker": "angelissaPastryShop\\Repository\\ProductoRepositorio.cs",
+              "ToolTip": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\Repository\\ProductoRepositorio.cs",
+              "RelativeToolTip": "angelissaPastryShop\\Repository\\ProductoRepositorio.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAYwCgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T04:02:17.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PresentacionDTO.cs",
+              "DocumentMoniker": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\Data\\PresentacionDTO.cs",
+              "RelativeDocumentMoniker": "angelissaPastryShop\\Data\\PresentacionDTO.cs",
+              "ToolTip": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\Data\\PresentacionDTO.cs",
+              "RelativeToolTip": "angelissaPastryShop\\Data\\PresentacionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T03:48:34.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CarritoServicio.cs",
+              "DocumentMoniker": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\Services\\CarritoServicio.cs",
+              "RelativeDocumentMoniker": "angelissaPastryShop\\Services\\CarritoServicio.cs",
+              "ToolTip": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\Services\\CarritoServicio.cs",
+              "RelativeToolTip": "angelissaPastryShop\\Services\\CarritoServicio.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAADwvz0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T03:46:34.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pedidos.razor.cs",
+              "DocumentMoniker": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\Components\\Pages\\Pedidos.razor.cs",
+              "RelativeDocumentMoniker": "angelissaPastryShop\\Components\\Pages\\Pedidos.razor.cs",
+              "ToolTip": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\Components\\Pages\\Pedidos.razor.cs",
+              "RelativeToolTip": "angelissaPastryShop\\Components\\Pages\\Pedidos.razor.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAADwvw8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T03:46:22.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pedidos.razor",
+              "DocumentMoniker": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\Components\\Pages\\Pedidos.razor",
+              "RelativeDocumentMoniker": "angelissaPastryShop\\Components\\Pages\\Pedidos.razor",
+              "ToolTip": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\Components\\Pages\\Pedidos.razor",
+              "RelativeToolTip": "angelissaPastryShop\\Components\\Pages\\Pedidos.razor",
+              "ViewState": "AgIAADgAAAAAAAAAAAAUwFQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-14T03:46:20.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

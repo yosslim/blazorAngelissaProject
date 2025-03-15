@@ -1,0 +1,115 @@
+﻿@page "/Ordenes"
+
+<h2>🍰 Órdenes Activas: @TotalOrdenesAct</h2>
+@if (OrdenesPaginadas.Any())
+{
+    <div class="table-responsive">
+        <table class="table table-hover table-bordered text-center">
+            <thead class="table-dark">
+                <tr>
+                    <th>Orden #</th>
+                    <th>Fecha</th>
+                    <th>Hora</th>
+                    <th>Total</th>
+                    <th>Estado</th>
+                    <th>Detalles</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var orden in OrdenesPaginadas)
+                {
+                    <tr>
+                        <td>@orden.OrdenID</td>
+                        <td>@orden.Fecha.ToString("dd/MM/yyyy")</td>
+                        <td>@orden.Fecha.ToString("hh:mm tt")</td>
+                        <td class="fw-bold text-success">@orden.Total.ToString("C")</td>
+                        <td class="fw-bold text-danger">@orden.Estado</td>
+                        <td>
+                            <button class="btn btn-primary btn-sm" @onclick="() => VerDetalles(orden.OrdenID)">
+                                📝 Ver Detalles
+                            </button>
+                        </td>
+                        <td>
+                            <button class="btn btn-success btn-sm" @onclick="() => ConfirmarCompletarOrden(orden.OrdenID)">Completar</button>
+                            <button class="btn btn-danger btn-sm" @onclick="() => ConfirmarCancelarOrden(orden.OrdenID)">Cancelar</button>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <!-- Paginación -->
+    <div class="d-flex justify-content-center mt-3">
+        <button class="btn btn-outline-primary mx-2" @onclick="PaginaAnterior" disabled="@(!PuedeRetroceder)">Anterior</button>
+        <span>Página @PaginaActual de @TotalPaginas</span>
+        <button class="btn btn-outline-primary mx-2" @onclick="PaginaSiguiente" disabled="@(!PuedeAvanzar)">Siguiente</button>
+    </div>
+
+}
+else
+{
+    <p class="text-center mt-4 fw-bold text-warning">No hay ordenes activas.</p>
+}
+
+
+<!-- Cuadro de confirmación -->
+@if (MostrarConfirmacion)
+{
+    <div class="modal fade show d-block" tabindex="-1">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Confirmación</h5>
+                    <button type="button" class="btn-close" @onclick="CerrarConfirmacion"></button>
+                </div>
+                <div class="modal-body">
+                    <p>@MensajeConfirmacion</p>
+                </div>
+                <div class="modal-footer">
+                    <button class="btn btn-secondary" @onclick="CerrarConfirmacion">Cancelar</button>
+                    <button class="btn btn-primary" @onclick="EjecutarAccionConfirmada">Confirmar</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal-backdrop fade show"></div>
+}
+
+
+@if (OrdenSeleccionada != null)
+{
+    <div class="modal fade show d-block" tabindex="-1">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Detalles de la Orden #@OrdenSeleccionada.OrdenID</h5>
+                    <button type="button" class="btn-close" @onclick="CerrarModal"></button>
+                </div>
+                <div class="modal-body">
+                    <ul class="list-group">
+                        @foreach (var detalle in OrdenSeleccionada.DetallesOrdens)
+                        {
+                            var presentacion = detalle.Producto.PreciosProductos
+                            .FirstOrDefault(pp => pp.PresentacionID == detalle.PresentacionID)?.Presentacion?.Nombre;
+
+                            <li class="list-group-item d-flex justify-content-between">
+                                <span>
+                                    @detalle.Producto.Nombre
+                                    @if (!string.IsNullOrEmpty(presentacion))
+                                    {
+                                        <span> (@presentacion)</span>
+                                    }
+                                    - @detalle.Cantidad
+                                </span>
+                                <span class="fw-bold">@detalle.PrecioUnitario.ToString("C")</span>
+                            </li>
+                        }
+                    </ul>
+                </div>               
+            </div>
+        </div>
+    </div>
+    <div class="modal-backdrop fade show"></div>
+}
