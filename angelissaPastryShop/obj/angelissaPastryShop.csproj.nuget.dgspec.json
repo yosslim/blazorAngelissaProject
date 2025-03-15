@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\angelissaPastryShop.csproj": {}
+    "D:\\Documents\\ProyectosGIT\\angelissa\\angelissaPastryShop\\angelissaPastryShop.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\angelissaPastryShop.csproj": {
+    "D:\\Documents\\ProyectosGIT\\angelissa\\angelissaPastryShop\\angelissaPastryShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\angelissaPastryShop.csproj",
+        "projectUniqueName": "D:\\Documents\\ProyectosGIT\\angelissa\\angelissaPastryShop\\angelissaPastryShop.csproj",
         "projectName": "angelissaPastryShop",
-        "projectPath": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\angelissaPastryShop.csproj",
+        "projectPath": "D:\\Documents\\ProyectosGIT\\angelissa\\angelissaPastryShop\\angelissaPastryShop.csproj",
         "packagesPath": "C:\\Users\\Yorceli\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\obj\\",
+        "outputPath": "D:\\Documents\\ProyectosGIT\\angelissa\\angelissaPastryShop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4EAjHPgCKVQ=",
+  "dgSpecHash": "B+MjiWS2Raw=",
   "success": true,
-  "projectFilePath": "D:\\Documents\\Proyectos\\Angelissa\\angelissaPastryShopV1\\angelissaPastryShop\\angelissaPastryShop.csproj",
+  "projectFilePath": "D:\\Documents\\ProyectosGIT\\angelissa\\angelissaPastryShop\\angelissaPastryShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yorceli\\.nuget\\packages\\azure.core\\1.44.1\\azure.core.1.44.1.nupkg.sha512",
     "C:\\Users\\Yorceli\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
