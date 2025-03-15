@@ -17,53 +17,53 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = angelissaPastryShop
 build_property.RootNamespace = angelissaPastryShop
-build_property.ProjectDir = D:\Documents\Proyectos\Angelissa\angelissaPastryShopV1\angelissaPastryShop\
+build_property.ProjectDir = D:\Documents\ProyectosGIT\angelissa\angelissaPastryShop\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Documents\Proyectos\Angelissa\angelissaPastryShopV1\angelissaPastryShop
+build_property.MSBuildProjectDirectory = D:\Documents\ProyectosGIT\angelissa\angelissaPastryShop
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/Documents/Proyectos/Angelissa/angelissaPastryShopV1/angelissaPastryShop/Components/App.razor]
+[D:/Documents/ProyectosGIT/angelissa/angelissaPastryShop/Components/App.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documents/Proyectos/Angelissa/angelissaPastryShopV1/angelissaPastryShop/Components/Layout/Menu.razor]
+[D:/Documents/ProyectosGIT/angelissa/angelissaPastryShop/Components/Layout/Menu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documents/Proyectos/Angelissa/angelissaPastryShopV1/angelissaPastryShop/Components/Pages/Error.razor]
+[D:/Documents/ProyectosGIT/angelissa/angelissaPastryShop/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documents/Proyectos/Angelissa/angelissaPastryShopV1/angelissaPastryShop/Components/Pages/HistorialOrdenes.razor]
+[D:/Documents/ProyectosGIT/angelissa/angelissaPastryShop/Components/Pages/HistorialOrdenes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIaXN0b3JpYWxPcmRlbmVzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documents/Proyectos/Angelissa/angelissaPastryShopV1/angelissaPastryShop/Components/Pages/Home.razor]
+[D:/Documents/ProyectosGIT/angelissa/angelissaPastryShop/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documents/Proyectos/Angelissa/angelissaPastryShopV1/angelissaPastryShop/Components/Pages/Ordenes.razor]
+[D:/Documents/ProyectosGIT/angelissa/angelissaPastryShop/Components/Pages/Ordenes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xPcmRlbmVzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documents/Proyectos/Angelissa/angelissaPastryShopV1/angelissaPastryShop/Components/Pages/Pedidos.razor]
+[D:/Documents/ProyectosGIT/angelissa/angelissaPastryShop/Components/Pages/Pedidos.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQZWRpZG9zLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documents/Proyectos/Angelissa/angelissaPastryShopV1/angelissaPastryShop/Components/Routes.razor]
+[D:/Documents/ProyectosGIT/angelissa/angelissaPastryShop/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documents/Proyectos/Angelissa/angelissaPastryShopV1/angelissaPastryShop/Components/_Imports.razor]
+[D:/Documents/ProyectosGIT/angelissa/angelissaPastryShop/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Documents/Proyectos/Angelissa/angelissaPastryShopV1/angelissaPastryShop/Components/Layout/MainLayout.razor]
+[D:/Documents/ProyectosGIT/angelissa/angelissaPastryShop/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-fezhegwvy0

@@ -430,8 +430,8 @@ D:\Documents\Proyectos\Angelissa\angelissaPastryShopV1\angelissaPastryShop\obj\D
 D:\Documents\Proyectos\Angelissa\angelissaPastryShopV1\angelissaPastryShop\obj\Debug\net9.0\compressed\nhsad6ui8l-f0cry4y7oq.gz
 D:\Documents\ProyectosGIT\angelissa\angelissaPastryShop\bin\Debug\net9.0\appsettings.Development.json
 D:\Documents\ProyectosGIT\angelissa\angelissaPastryShop\bin\Debug\net9.0\appsettings.json
-D:\Documents\ProyectosGIT\angelissa\angelissaPastryShop\bin\Debug\net9.0\angelissaPastryShop.staticwebassets.endpoints.json
 D:\Documents\ProyectosGIT\angelissa\angelissaPastryShop\bin\Debug\net9.0\angelissaPastryShop.staticwebassets.runtime.json
+D:\Documents\ProyectosGIT\angelissa\angelissaPastryShop\bin\Debug\net9.0\angelissaPastryShop.staticwebassets.endpoints.json
 D:\Documents\ProyectosGIT\angelissa\angelissaPastryShop\bin\Debug\net9.0\angelissaPastryShop.exe
 D:\Documents\ProyectosGIT\angelissa\angelissaPastryShop\bin\Debug\net9.0\angelissaPastryShop.deps.json
 D:\Documents\ProyectosGIT\angelissa\angelissaPastryShop\bin\Debug\net9.0\angelissaPastryShop.runtimeconfig.json

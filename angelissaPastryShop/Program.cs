@@ -16,13 +16,13 @@ Microsoft.EntityFrameworkCore: para entity
 
 builder.Services.AddDbContext<AngelissaPastryContext>(
     options => options.UseSqlServer(
-    builder.Configuration.GetConnectionString("ConnectionDB")));
+    builder.Configuration.GetConnectionString("ConnectionDBFromAzure")));
 
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
 
-builder.Services.AddServerSideBlazor();
+//builder.Services.AddServerSideBlazor();
 
 //Repository as DI
 
@@ -42,7 +42,7 @@ if (!app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-app.MapBlazorHub();
+//app.MapBlazorHub();
 
 app.UseAntiforgery();
 

@@ -4,13 +4,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\angelissaPastryShop.9cdqbdysas.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9cdqbdysas"},{"Name":"integrity","Value":"sha256-CSVgakaqyic/\u002BQrCntWeZHpHeChrJ69Q19bOP00PMuA="},{"Name":"label","Value":"_content/angelissaPastryShop/angelissaPastryShop.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2254"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022CSVgakaqyic/\u002BQrCntWeZHpHeChrJ69Q19bOP00PMuA=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 04:54:30 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2254"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022CSVgakaqyic/\u002BQrCntWeZHpHeChrJ69Q19bOP00PMuA=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 05:59:03 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/angelissaPastryShop/angelissaPastryShop.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\angelissaPastryShop.9cdqbdysas.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CSVgakaqyic/\u002BQrCntWeZHpHeChrJ69Q19bOP00PMuA="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2254"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022CSVgakaqyic/\u002BQrCntWeZHpHeChrJ69Q19bOP00PMuA=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 04:54:30 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2254"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022CSVgakaqyic/\u002BQrCntWeZHpHeChrJ69Q19bOP00PMuA=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Mar 2025 05:59:03 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/angelissaPastryShop/app.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\app.css'))</AssetFile>

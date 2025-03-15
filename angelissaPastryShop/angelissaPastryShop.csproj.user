@@ -2,6 +2,6 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ActiveDebugProfile>https</ActiveDebugProfile>
-    <NameOfLastUsedPublishProfile>D:\Documents\Proyectos\Angelissa\angelissaPastryShopV1\angelissaPastryShop\Properties\PublishProfiles\angelissaPastryShop - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>D:\Documents\ProyectosGIT\angelissa\angelissaPastryShop\Properties\PublishProfiles\angelissaPastryShop - Web Deploy1.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

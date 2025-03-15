@@ -86,3 +86,10 @@ h1:focus {
     font-weight: bold;
     color: #28a745;
 }
+
+.cart-container {
+    z-index: 1050; /* Asegúrate de que esté por encima de otros elementos */
+    background-color: #ffffff; /* Fondo para que no quede transparente */
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
