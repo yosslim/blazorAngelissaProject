@@ -411,3 +411,6 @@ FodyWeavers.xsd
 
 # Ignorar archivos y configuraciones de Visual Studio
 .vs
+
+/config/
+*.config
