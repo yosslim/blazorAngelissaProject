@@ -1,12 +1,12 @@
-﻿using angelissaPastryShop.Data;
+﻿using angelissaPastryShop.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace angelissaPastryShop.Repository
 {
     public class ProductoRepositorio : IProductoRepositorio
     {
-        private readonly AngelissaPastryContext _context;
-        public ProductoRepositorio(AngelissaPastryContext context)
+        private readonly AngelissaShopDbv0Context _context;
+        public ProductoRepositorio(AngelissaShopDbv0Context context)
         {
             this._context = context;
         }
@@ -27,18 +27,18 @@ namespace angelissaPastryShop.Repository
                 .Include(p => p.Categoria)
                 .Select(p => new ProductoDTO
                 {
-                    ProductoID = p.ProductoID,
+                    ProductoID = p.ProductoId,
                     Nombre = p.Nombre,
                     Imagen = p.Imagen,
                     Categoria = p.Categoria.Nombre,
-                    CategoriaID = p.CategoriaID,
+                    CategoriaID = p.CategoriaId,
                     Presentaciones = _context.PreciosProductos
-                        .Where(pp => pp.ProductoID == p.ProductoID)
+                        .Where(pp => pp.ProductoId == p.ProductoId)
                         .Select(pp => new PresentacionDTO
                         {
                             Presentacion = pp.Presentacion.Nombre,
                             Precio = pp.Precio,
-                            PresentacionID = pp.PresentacionID
+                            PresentacionID = pp.PresentacionId
                         }).ToList()
                 }).ToListAsync();
 
@@ -52,7 +52,7 @@ namespace angelissaPastryShop.Repository
         public async Task<List<Producto>> ObtenerPorCategoria(int categoriaId)
         {
             return await _context.Productos
-                                 .Where(p => p.CategoriaID == categoriaId)
+                                 .Where(p => p.CategoriaId == categoriaId)
                                  .ToListAsync();
         }
         public async Task<List<Producto>> BuscarPorNombre(string busqueda)

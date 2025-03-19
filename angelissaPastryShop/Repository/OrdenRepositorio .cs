@@ -1,14 +1,14 @@
 ﻿using angelissaPastryShop.Components.Pages;
-using angelissaPastryShop.Data;
+using angelissaPastryShop.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace angelissaPastryShop.Repository
 {
     public class OrdenRepositorio : IOrdenRepositorio
     {
-        private readonly AngelissaPastryContext _context;
+        private readonly AngelissaShopDbv0Context _context;
 
-        public OrdenRepositorio(AngelissaPastryContext context)
+        public OrdenRepositorio(AngelissaShopDbv0Context context)
         {
             _context = context;
         }
@@ -32,7 +32,7 @@ namespace angelissaPastryShop.Repository
             return await _context.Ordenes.Include(o => o.DetallesOrdens).ThenInclude(d => d.Producto)
                                                                         .ThenInclude(p => p.PreciosProductos) // Incluir la relación con PrecioProducto
                                                                         .ThenInclude(pp => pp.Presentacion) // Incluir la relación con Presentacion
-                                                                        .FirstOrDefaultAsync(o => o.OrdenID == id);
+                                                                        .FirstOrDefaultAsync(o => o.OrdenId == id);
         }
 
         public async Task<List<Orden>> ObtenerOrdenesActivas() 
@@ -57,7 +57,7 @@ namespace angelissaPastryShop.Repository
             {
                 // Eliminar registros dependientes en la tabla DetallesOrden
                 var detalles = _context.DetallesOrdens
-                                      .Where(d => d.OrdenID == ordenId)
+                                      .Where(d => d.OrdenId == ordenId)
                                       .ToList();
                 _context.DetallesOrdens.RemoveRange(detalles);
 

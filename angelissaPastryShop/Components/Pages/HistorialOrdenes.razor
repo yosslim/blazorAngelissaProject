@@ -19,13 +19,13 @@
                 @foreach (var orden in OrdenesPaginadas)
                 {
                     <tr>
-                        <td>@orden.OrdenID</td>
+                        <td>@orden.OrdenId</td>
                         <td>@orden.Fecha.ToString("dd/MM/yyyy")</td>
                         <td>@orden.Fecha.ToString("hh:mm tt")</td>
                         <td class="fw-bold text-success">@orden.Total.ToString("C")</td>
                         <td class="fw-bold text-success">@orden.Estado</td>
                         <td>
-                            <button class="btn btn-primary btn-sm" @onclick="() => VerDetalles(orden.OrdenID)">
+                            <button class="btn btn-primary btn-sm" @onclick="() => VerDetalles(orden.OrdenId)">
                                 📝 Ver Detalles
                             </button>
                         </td>
@@ -53,7 +53,7 @@ else
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h5 class="modal-title">Detalles de la Orden #@OrdenSeleccionada.OrdenID</h5>
+                    <h5 class="modal-title">Detalles de la Orden #@OrdenSeleccionada.OrdenId</h5>
                     <button type="button" class="btn-close" @onclick="CerrarModal"></button>
                 </div>
                 <div class="modal-body">

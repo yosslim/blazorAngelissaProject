@@ -398,3 +398,16 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Ignorar carpetas de compilación
+**/obj/
+**/bin/
+
+# Ignorar archivos específicos de compilación
+*.dll
+*.exe
+*.pdb
+*.json
+
+# Ignorar archivos y configuraciones de Visual Studio
+.vs

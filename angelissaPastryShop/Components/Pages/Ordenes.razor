@@ -20,19 +20,19 @@
                 @foreach (var orden in OrdenesPaginadas)
                 {
                     <tr>
-                        <td>@orden.OrdenID</td>
+                        <td>@orden.OrdenId</td>
                         <td>@orden.Fecha.ToString("dd/MM/yyyy")</td>
                         <td>@orden.Fecha.ToString("hh:mm tt")</td>
                         <td class="fw-bold text-success">@orden.Total.ToString("C")</td>
                         <td class="fw-bold text-danger">@orden.Estado</td>
                         <td>
-                            <button class="btn btn-primary btn-sm" @onclick="() => VerDetalles(orden.OrdenID)">
+                            <button class="btn btn-primary btn-sm" @onclick="() => VerDetalles(orden.OrdenId)">
                                 📝 Ver Detalles
                             </button>
                         </td>
                         <td>
-                            <button class="btn btn-success btn-sm" @onclick="() => ConfirmarCompletarOrden(orden.OrdenID)">Completar</button>
-                            <button class="btn btn-danger btn-sm" @onclick="() => ConfirmarCancelarOrden(orden.OrdenID)">Cancelar</button>
+                            <button class="btn btn-success btn-sm" @onclick="() => ConfirmarCompletarOrden(orden.OrdenId)">Completar</button>
+                            <button class="btn btn-danger btn-sm" @onclick="() => ConfirmarCancelarOrden(orden.OrdenId)">Cancelar</button>
                         </td>
                     </tr>
                 }
@@ -84,7 +84,7 @@ else
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h5 class="modal-title">Detalles de la Orden #@OrdenSeleccionada.OrdenID</h5>
+                    <h5 class="modal-title">Detalles de la Orden #@OrdenSeleccionada.OrdenId</h5>
                     <button type="button" class="btn-close" @onclick="CerrarModal"></button>
                 </div>
                 <div class="modal-body">
@@ -92,7 +92,7 @@ else
                         @foreach (var detalle in OrdenSeleccionada.DetallesOrdens)
                         {
                             var presentacion = detalle.Producto.PreciosProductos
-                            .FirstOrDefault(pp => pp.PresentacionID == detalle.PresentacionID)?.Presentacion?.Nombre;
+                            .FirstOrDefault(pp => pp.PresentacionId == detalle.PresentacionId)?.Presentacion?.Nombre;
 
                             <li class="list-group-item d-flex justify-content-between">
                                 <span>

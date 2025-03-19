@@ -1,5 +1,5 @@
 ﻿using angelissaPastryShop.Components.Pages;
-using angelissaPastryShop.Data;
+using angelissaPastryShop.Models;
 
 namespace angelissaPastryShop.Repository
 {

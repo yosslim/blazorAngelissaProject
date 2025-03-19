@@ -1,4 +1,4 @@
-﻿using angelissaPastryShop.Data;
+﻿using angelissaPastryShop.Models;
 using angelissaPastryShop.Repository;
 using Microsoft.AspNetCore.Components;
 

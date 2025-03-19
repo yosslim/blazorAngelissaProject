@@ -1,4 +1,4 @@
-﻿using angelissaPastryShop.Data;
+﻿using angelissaPastryShop.Models;
 using angelissaPastryShop.Repository;
 using Microsoft.AspNetCore.Components;
 using Microsoft.EntityFrameworkCore;
@@ -71,8 +71,8 @@ namespace angelissaPastryShop.Services
                 DetallesOrdens = productosEnCarrito.Select(p => new DetallesOrden
                 {
                     //OrdenID:  EF Core maneja la relación y el OrderId correspondiente se agrega automáticamente, sin necesidad de hacer dos inserts separados, EF Core maneja automáticamente las claves foráneas al usar SaveChanges()
-                    ProductoID = p.Id,
-                    PresentacionID = p.PresentacionID,
+                    ProductoId = p.Id,
+                    PresentacionId = p.PresentacionID,
                     Cantidad = p.Cantidad,
                     PrecioUnitario = p.Precio
                 }).ToList()

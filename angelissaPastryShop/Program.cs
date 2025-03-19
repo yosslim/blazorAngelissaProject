@@ -1,5 +1,6 @@
 using angelissaPastryShop.Components;
 using angelissaPastryShop.Data;
+using angelissaPastryShop.Models;
 using angelissaPastryShop.Repository;
 using angelissaPastryShop.Services;
 using Microsoft.EntityFrameworkCore;
@@ -14,9 +15,9 @@ Microsoft.EntityFrameworkCore.SqlServe: para trabajar con sql server para DB
 Microsoft.EntityFrameworkCore: para entity
 */
 
-builder.Services.AddDbContext<AngelissaPastryContext>(
+builder.Services.AddDbContext<AngelissaShopDbv0Context>(
     options => options.UseSqlServer(
-    builder.Configuration.GetConnectionString("ConnectionDBFromAzure")));
+    builder.Configuration.GetConnectionString("ConnectionDB")));
 
 // Add services to the container.
 builder.Services.AddRazorComponents()
